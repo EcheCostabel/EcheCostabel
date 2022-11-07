@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Front-End+Developer;Back-End+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 <!--
 **EcheCostabel/EcheCostabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
