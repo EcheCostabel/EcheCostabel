@@ -3,10 +3,9 @@
 
 
 
-Tecnologies And Tools:
-  Javascript Html5 Css3 Bootstrap React Redux
+![tecs](https://user-images.githubusercontent.com/102641447/200903669-7ad1247a-5003-4d5c-b0c9-4140129f654e.png)
 
-Nodejs Express Git Postgresql Postman 
+
 
 🌍 I'm based in Santa Fe, Argentina.
 
