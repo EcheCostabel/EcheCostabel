@@ -5,13 +5,16 @@
 
 ![tecs](https://user-images.githubusercontent.com/102641447/200903669-7ad1247a-5003-4d5c-b0c9-4140129f654e.png)
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EcheCostabel&theme=radical)
 
 🌍I'm based in Santa Fe, Argentina.
 
 📫 Contact me at exequielcostabel@gmail.com
 
     Linkedin: https://www.linkedin.com/in/exequiel-costabel-2b09b2239/
+    
+    
+    
 
 <!--
 **EcheCostabel/EcheCostabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
