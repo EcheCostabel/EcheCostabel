@@ -1,4 +1,4 @@
-### Hi, I´m Exequiel
+### Hi, I´m Exequiel, Welcome to my profile
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Front-End+Developer;Back-End+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 
@@ -7,7 +7,7 @@
 
 
 
-🌍 I'm based in Santa Fe, Argentina.
+🌍I'm based in Santa Fe, Argentina.
 
 📫 Contact me at exequielcostabel@gmail.com
 
