@@ -1,5 +1,5 @@
 ### Hi, I´m Exequiel, Welcome to my profile
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Front-End+Developer;Back-End+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Front-End+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 
 
